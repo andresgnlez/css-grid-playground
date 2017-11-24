@@ -1,0 +1,4 @@
+1080px
+12 columns
+20px gutter
+70px column size
